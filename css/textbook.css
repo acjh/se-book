@@ -9,6 +9,10 @@
     margin-top: 4px;
 }
 
+blockquote {
+    font-size: 14px;
+}
+
 mark {
     background-color: yellow;
 }
